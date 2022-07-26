@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.titulo-texto{
+    color:green;
+    font-size:40px;
+    font-style:italic;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    text-transform:uppercase;
+    
+}
+
+P {
+    color:black
+
+}
+
+#titulo-destacado {
+    color:chartreuse
+}
+
+.fuente-letra{
+    font-size:25px;
+}
+
+form {
+    color:blue
+}
+
+h1 {
+
+    color:black
+}
+
+
+.propiedades-fondo{
+    background-color:rgb(156, 221, 156);
+    text-align: justify;
+}
+
+.lista-fondo{
+    background-image: url(../imagen/PS-15T-01.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.flexbox{
+    display: flex;
+}
+
+.tarjeta{
+    background-color: aquamarine;
+    color: brown;
+    width: 200px;
+    height: 400px;
+    padding:20px ;
+    margin:35px ;
+    border: 2px solid black;
+
+    overflow: scroll;
+
+    display:block;
+
+    border-radius: 5px;
+
+    position: relative;
+
+    
+}
+
+.tarj__imagen{
+    width: 100%;
+    max-width: 200px;
+    border: 5px;
+    margin-bottom: 20px;
+}
+
+.tarj__titulo{
+
+    text-align: center;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+
+.tarj__parrafo{
+
+    text-align: justify;
+    font-size: 14px;
+    color: brown;
+
+}
+
+.tarj__extra{
+    background-color: cyan;
+    color: black;
+    padding: 1rem ;
+    position:absolute;
+     
+}
+
+.flex{
+    list-style: none ;
+    border: 2px solid rgb(27, 189, 89);
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.flex__hijo{
+
+    width: 90px;
+    height:90px;
+    border: 1px solid black;
+}
+
+.header {
+
+    background-color:rgb(89, 226, 192);
+    color: green;
+    padding: 0.5rem 1rem ;
+    top:0;
+    left: 0;
+    width: 100%;
+    z-index:1000 ;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.nav__lista {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+     
+}
+
+.nav__item {
+margin: 1rem;
+
+}
+
+.grid {
+
+    border:2px rgb(65, 218, 133) ;
+    padding: 1rem;
+    height:190px;
+    display: grid;
+    grid-template-rows: repeat(20px);
+    
+}
+
+.grid_inicio {
+
+    border: 3px solid lightblue;
+    padding: 2rem;
+    height: 500px;
+    display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   grid-template-rows: 3, 50px;
+   grid-template-areas: 
+   "img 1 img2 img2" 
+   "img3 img3 " 
+   "img";
+
+
+   row-gap: 20px;
+   column-gap: 25px;
+
+   justify-items:center;
+
+}
+
+
+.grid__hijos{
+
+    grid-area: img1;
+    background-color: rgb(89, 226, 192) ;
+    
+
+}
+
+.grid__img{
+
+    height:70%;
+    width: 30%;
+    object-fit: cover;
+    
+    
+}
+
+main{
+
+    margin-top: 200px;
+    min-height: 100vh;
+}
+
+.footer {
+
+    background-color: rgb(89, 226, 192);
+    color: black;
+}
+
+.footer__flex {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+
+}
+
+.footer__logo {
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.footer__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    border-top: 1px;
+    padding: 1rem;
+    gap: 1rem;
+
+
+}
+
+
+
+/* para table - no tacar todavia 768px y 1023px 10pulgadas */
+@media screen and (max-width:1023px)
+
+
+@media screen {
+    
+}
+
+@media screen and (max-width:599px) { 
+
+    .seccion__titulo{
+        text-align: right;
+        color: green;
+    }
+    .grid {
+
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row: 3, 20px;
+    }
+}
