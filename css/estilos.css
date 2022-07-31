@@ -240,6 +240,12 @@ main{
 
 
 }
+.container {
+
+    background-color: rgb(27, 192, 68);
+    max-width: 650px;
+    justify-content: center;
+}
 
 
 
