@@ -247,11 +247,51 @@ main{
     justify-content: center;
 }
 
+.contacto1__mapa {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 
 
-/* para table - no tacar todavia 768px y 1023px 10pulgadas */
-@media screen and (max-width:1023px)
+}
 
+.inicio__vibrate{
+
+    animation: vibrate-1 0.3s linear infinite both;
+}
+
+
+
+  @keyframes vibrate-1 {
+    0% {
+        -webkit-transform: translate(0);
+                transform: translate(0);
+      }
+      20% {
+        -webkit-transform: translate(-2px, 2px);
+                transform: translate(-2px, 2px);
+      }
+      40% {
+        -webkit-transform: translate(-2px, -2px);
+                transform: translate(-2px, -2px);
+      }
+      60% {
+        -webkit-transform: translate(2px, 2px);
+                transform: translate(2px, 2px);
+      }
+      80% {
+        -webkit-transform: translate(2px, -2px);
+                transform: translate(2px, -2px);
+      }
+      100% {
+        -webkit-transform: translate(0);
+                transform: translate(0);
+      }
+  
+
+  }
+  
+    
 
 @media screen {
     
