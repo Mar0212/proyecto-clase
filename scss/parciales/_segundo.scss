@@ -1,0 +1,83 @@
+
+.propiedades-fondo{
+    background-color:rgb(156, 221, 156);
+    text-align: justify;
+}
+
+.lista-fondo{
+    background-image: url(../imagen/PS-15T-01.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.flexbox{
+    display: flex;
+}
+
+.tarjeta{
+    background-color: aquamarine;
+    color: brown;
+    width: 200px;
+    height: 400px;
+    padding:20px ;
+    margin:35px ;
+    border: 2px solid black;
+
+    overflow: scroll;
+
+    display:block;
+
+    border-radius: 5px;
+
+    position: relative;
+
+    
+}
+
+.tarj__imagen{
+    width: 100%;
+    max-width: 200px;
+    border: 5px;
+    margin-bottom: 20px;
+}
+
+.tarj__titulo{
+
+    text-align: center;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+
+.tarj__parrafo{
+
+    text-align: justify;
+    font-size: 14px;
+    color: brown;
+
+}
+
+.tarj__extra{
+    background-color: cyan;
+    color: black;
+    padding: 1rem ;
+    position:absolute;
+     
+}
+
+.flex{
+    list-style: none ;
+    border: 2px solid rgb(27, 189, 89);
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.flex__hijo{
+
+    width: 90px;
+    height:90px;
+    border: 1px solid black;
+}

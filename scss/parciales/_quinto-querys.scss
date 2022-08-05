@@ -1,0 +1,17 @@
+@media screen {
+    
+}
+
+@media screen and (max-width:599px) { 
+
+    .seccion__titulo{
+        text-align: right;
+        color: green;
+    }
+    .grid {
+
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row: 3, 20px;
+    }
+}

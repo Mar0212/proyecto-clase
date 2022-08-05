@@ -1,0 +1,83 @@
+.footer {
+
+    background-color: rgb(89, 226, 192);
+    color: black;
+}
+
+.footer__flex {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+
+}
+
+.footer__logo {
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.footer__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    border-top: 1px;
+    padding: 1rem;
+    gap: 1rem;
+
+
+}
+.container {
+
+    background-color: rgb(27, 192, 68);
+    max-width: 650px;
+    justify-content: center;
+}
+
+.contacto1__mapa {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+
+
+}
+
+.inicio__vibrate{
+
+    animation: vibrate-1 0.3s linear infinite both;
+}
+
+
+  @keyframes vibrate-1 {
+    0% {
+        -webkit-transform: translate(0);
+                transform: translate(0);
+      }
+      20% {
+        -webkit-transform: translate(-2px, 2px);
+                transform: translate(-2px, 2px);
+      }
+      40% {
+        -webkit-transform: translate(-2px, -2px);
+                transform: translate(-2px, -2px);
+      }
+      60% {
+        -webkit-transform: translate(2px, 2px);
+                transform: translate(2px, 2px);
+      }
+      80% {
+        -webkit-transform: translate(2px, -2px);
+                transform: translate(2px, -2px);
+      }
+      100% {
+        -webkit-transform: translate(0);
+                transform: translate(0);
+      }
+  
+
+  }
