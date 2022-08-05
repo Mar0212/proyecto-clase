@@ -5,7 +5,7 @@
 }
 
 .titulo-texto{
-    color:green;
+    color:$colorprincipal;
     font-size:40px;
     font-style:italic;
     font-weight:bold;
@@ -21,7 +21,7 @@ P {
 }
 
 #titulo-destacado {
-    color:chartreuse
+    color:$colorprincipal
 }
 
 .fuente-letra{
