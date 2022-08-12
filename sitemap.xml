@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/issues</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/pulls</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/projects?type=new</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/security</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/commit/ba04f6656fefef253f2b3b5722aae9cbef3c7845</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/commit/15a6d685d4214d4dc35c7df06ddf2ade0c9502ba</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/commit/8438d9bd5efc60805df075ee8b82c8c8e2c36864</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/master/.gitignore</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/commit/cc9ec5b870e09edbb0b0b17d0eb994b5247ba192</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/master/Borrador-completo.pdf</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/master/index.html</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/master/package-lock.json</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/master/package.json</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/commit/09699b621ff028d8e3f70140215f32456ad89527</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/master/pueba.HTML</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/commit/4ed9dcd9664755ef7b6fc9b0eaee6a46a0670d81</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/releases</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/compare</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2800848140</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2800415334</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2800091393</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2779303189</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2771632763</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2742008236</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/projects?type=classic</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/projects?type=beta</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/security/policy</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/security/advisories</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/commit/1a72e2d4f5f32c318ed5302d0edf977dc99622a7</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/ba04f6656fefef253f2b3b5722aae9cbef3c7845/.gitignore</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/find/master</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/ba04f6656fefef253f2b3b5722aae9cbef3c7845/index.html</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/ba04f6656fefef253f2b3b5722aae9cbef3c7845/package-lock.json</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/ba04f6656fefef253f2b3b5722aae9cbef3c7845/package.json</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/blob/ba04f6656fefef253f2b3b5722aae9cbef3c7845/pueba.HTML</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels?sort=name-asc</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels?sort=name-desc</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels?sort=count-desc</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels?sort=count-asc</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/bug</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/documentation</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/duplicate</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/enhancement</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/good%20first%20issue</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/help%20wanted</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/invalid</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/question</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/labels/wontfix</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7684113672?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7684118265?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7684118214?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2800848140/usage</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7682978554?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7682984144?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7682984016?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2800415334/usage</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7682153638?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7682159947?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7682159846?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2800091393/usage</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7623821192?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7623828903?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7623828825?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2779303189/usage</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7602876177?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7602880110?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7602880054?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2771632763/usage</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7527665984?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7527674620?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/runs/7527674890?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/actions/runs/2742008236/usage</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/security/advisories?state=published</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/find/ba04f6656fefef253f2b3b5722aae9cbef3c7845</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Mar0212/proyecto-clase/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:35:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>

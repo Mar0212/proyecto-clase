@@ -1,1 +1,14 @@
 $colorprincipal: green;
+
+$redes: (
+    instagram: red,
+    facebook: blue,
+  );
+  
+  @each $clave, $valor in $redes {
+      .red-social-#{$clave} {
+          background-color: $valor;
+      }
+      
+      
+  }
