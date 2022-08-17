@@ -218,3 +218,23 @@ main {
     .red-social-facebook {
       background-color: blue;
     }
+    
+    @media screen and (max-width:1023px) {
+
+      .seccion__titulo {
+        text-align: right;
+        color: green; }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row: 3, 30px; } }
+    
+        .red-social-instagram {
+          background-color: red;
+        }
+        
+        .red-social-facebook {
+          background-color: blue;
+        }
+
