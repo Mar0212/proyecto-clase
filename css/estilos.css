@@ -86,12 +86,11 @@ h1 {
 .flex__hijo {
   width: 90px;
   height: 90px;
-  border: 1px solid black; }
+  border: 1rem solid black; }
 
 .header {
   background-color: #59e2c0;
   color: green;
-  padding: 0.5rem 1rem;
   top: 0;
   left: 0;
   width: 100%;
@@ -106,7 +105,9 @@ h1 {
   list-style: none;
   display: flex;
   flex-direction: row;
-  align-items: center; }
+  align-items: center; 
+  align-content: space-between;
+  flex-wrap: wrap;}
 
 .nav__item {
   margin: 1rem; }
@@ -114,7 +115,7 @@ h1 {
 .grid {
   border: 2px #41da85;
   padding: 1rem;
-  height: 190px;
+  height: 500%;
   display: grid;
   grid-template-rows: repeat(20px); }
 
@@ -123,13 +124,14 @@ h1 {
   padding: 2rem;
   height: 500px;
   display: grid;
+  align-content: space-around;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 3, 50px;
   grid-template-areas: "img 1 img2 img2" 
  "img3 img3 " 
  "img";
-  row-gap: 20px;
-  column-gap: 25px;
+  row-gap: 10px;
+  column-gap: 0px;
   justify-items: center; }
 
 .grid__hijos {
@@ -237,4 +239,7 @@ main {
         .red-social-facebook {
           background-color: blue;
         }
+        
+
+        
 
